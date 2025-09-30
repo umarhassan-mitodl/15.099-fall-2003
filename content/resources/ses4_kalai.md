@@ -7,6 +7,8 @@ description: 'Summary presentation based on two papers: Kalai, Gil. "A Subexpone
 file: /courses/15-099-readings-in-optimization-fall-2003/085bdedf922416c74a2b31a620457eb9_ses4_kalai.pdf
 file_size: 290371
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

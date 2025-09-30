@@ -6,6 +6,8 @@ description: "Summary presentation based on: Zabinsky, Zelda B., and Robert L. S
 file: /courses/15-099-readings-in-optimization-fall-2003/0292134a68638bc07fcf576635255ae7_ses6_zabinsky1.pdf
 file_size: 104950
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

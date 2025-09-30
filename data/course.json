@@ -27,6 +27,7 @@
     "website": "15-099-readings-in-optimization-fall-2003"
   },
   "course_title": "Readings in Optimization",
+  "hide_download": true,
   "course_description": "In keeping with the tradition of the last twenty-some years, the Readings in Optimization seminar will focus on an advanced topic of interest to a portion of the MIT optimization community: randomized methods for deterministic optimization. In contrast to conventional optimization algorithms whose iterates are computed and analyzed deterministically, randomized methods rely on stochastic processes and random number/vector generation as part of the algorithm and/or its analysis. In the seminar, we will study some very recent papers on this topic, many by MIT faculty, as well as some older papers from the existing literature that are only now receiving attention.\n",
   "department_numbers": [
     "15"
@@ -37,6 +38,7 @@
     "content": "7d8da226-0bc8-f58f-d510-2e0f5251f00b",
     "website": "15-099-readings-in-optimization-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments with Examples"

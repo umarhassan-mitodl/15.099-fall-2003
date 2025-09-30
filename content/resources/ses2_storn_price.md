@@ -6,6 +6,8 @@ description: 'Summary presentation based on: Storn, Rainer, and Kenneth Price. "
 file: /courses/15-099-readings-in-optimization-fall-2003/c5b8927f32a15cab2545d57397d3cabb_ses2_storn_price.pdf
 file_size: 66418
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

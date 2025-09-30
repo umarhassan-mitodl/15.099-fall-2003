@@ -2,6 +2,8 @@
 content_type: page
 description: This section features student presentations, which form the basis for
   class discussions, and brief citations of assigned readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

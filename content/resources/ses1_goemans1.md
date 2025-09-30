@@ -6,6 +6,8 @@ description: Lecture presentation on an alternate view of linear programming, sy
 file: /courses/15-099-readings-in-optimization-fall-2003/a837b244b710301b020bab0dd9a92a71_ses1_goemans1.pdf
 file_size: 808334
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
