@@ -9,8 +9,6 @@ description: 'Summary presentation based on: Clarkson, Kenneth L. Las Vegas Algo
 file: /courses/15-099-readings-in-optimization-fall-2003/447811ef5d267f866da5abf01d028742_ses3_book.pdf
 file_size: 227256
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

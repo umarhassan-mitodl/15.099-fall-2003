@@ -6,8 +6,6 @@ description: 'Summary presentation based on: Clarkson, Kenneth L. "Las Vegas Alg
 file: /courses/15-099-readings-in-optimization-fall-2003/ab28b6ba26b99307ccbf58366a61769d_ses3_clarkson.pdf
 file_size: 140684
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
